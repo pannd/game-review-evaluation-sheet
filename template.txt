@@ -81,3 +81,24 @@
 ☐ Can get annoying
 ☐ ARK: Survival Evolved
 ☐ The game itself is a big terrarium for bugs
+
+---{Controls}---
+☐ Play while eating breads
+☐ Drink juice when loading
+☐ Just pause
+☐ Focus on
+☐ OK, Google, turn on Do not disturb mode
+
+---{Replay Value}---
+☐ Conditioned reflex example
+☐ No new things
+☐ Relive sweet memories
+☐ Rank game
+
+---{Originality}---
+☐ History textbook of future
+☐ Never seen before but nice try
+☐ There's some reason why you are first
+☐ Development
+☐ Git clone
+☐ We have at home
